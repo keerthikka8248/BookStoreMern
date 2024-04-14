@@ -1,2 +1,0 @@
-Backend -- npm start
-Frontend -- npm run dev
